@@ -47,7 +47,18 @@ You need to know the basics of MongoDB, should have coded in Go and should be co
 This course has the following requirements:<br/>
 Be familiar with the Go programming language<br/>
 Have access to a MongoDB server, locally or cloud installed<br/>
-Vim code editor<br/>
+Vim code editor<br/><br/>
+
+Recommended Hardware Requirements<br/>
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<br/>
+OS: MacOS Mojave<br/>
+Processor: Intel Core i5<br/>
+Memory: 8GB memory<br/>
+Storage: 256 GB storage<br/><br/>
+
+Software Requirements<br/>
+Golang 1.11.2 or higher<br/>
+MongoDB v4.0.6 or higher<br/>
 
 
 
